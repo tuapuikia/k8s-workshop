@@ -12,6 +12,9 @@ image:
 nameOverride: ""
 fullnameOverride: ""
 
+app:
+  name: ""
+
 service:
   type: ClusterIP
   port: 80
