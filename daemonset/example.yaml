@@ -1,5 +1,3 @@
-controllers/daemonset.yaml 
-
 apiVersion: apps/v1
 kind: DaemonSet
 metadata:
